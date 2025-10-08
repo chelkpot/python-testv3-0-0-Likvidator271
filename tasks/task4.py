@@ -2,7 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    z = int(input())
+    z += 1
+    print(z)
 
     
 
