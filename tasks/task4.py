@@ -3,8 +3,8 @@
 def solve():
 # Ниже пишите решение задачи
     z = int(input())
-    z += 1
-    print(z)
+    z2 = z + (2 - (z & 1))
+    print(z2)
 
     
 
